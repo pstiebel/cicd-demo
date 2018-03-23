@@ -1,0 +1,22 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "CICD demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstiebel/cicd-demo.git"
+  },
+  "keywords": [
+    "cicd"
+  ],
+  "author": "Philipp Stiebeling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pstiebel/cicd-demo/issues"
+  },
+  "homepage": "https://github.com/pstiebel/cicd-demo#readme"
+}
