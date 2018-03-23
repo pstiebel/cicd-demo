@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pstiebel/cicd-demo/issues"
   },
-  "homepage": "https://github.com/pstiebel/cicd-demo#readme"
+  "homepage": "https://github.com/pstiebel/cicd-demo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
